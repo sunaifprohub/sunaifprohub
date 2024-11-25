@@ -1,0 +1,3 @@
+ .socials a:hover, a.prev:hover, a.next:hover { filter:alpha(opacity=20);	}
+
+ .count, a.btn {behavior:url(js/PIE.htc); position: relative;}
